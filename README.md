@@ -49,10 +49,9 @@ You will deepen your understanding of process management, file descriptors, sign
 
 ## How to Build and Run
 
-1. Clone the repo:
+1. Clone the repo and :
 
    ```bash
-   git clone https://github.com/yourusername/minishell.git
    cd minishell
    make
    ./minishell
