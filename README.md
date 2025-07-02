@@ -4,7 +4,6 @@
 
 ---
 
-## Overview
 
 Minishell is a minimal shell program written in C that allows you to interact with your system via command lines, mimicking the behavior of popular shells like Bash.
 
